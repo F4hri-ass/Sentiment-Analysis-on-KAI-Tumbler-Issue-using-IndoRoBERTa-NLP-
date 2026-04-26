@@ -1,9 +1,5 @@
 # 🤖 Sentiment Analysis: KAI Tumbler Viral Issue using IndoRoBERTa
 
-![NLP](https://shields.io)
-![Python](https://shields.io)
-![IndoRoBERTa](https://shields.io)
-
 ## 📌 Project Overview
 Proyek ini menganalisis sentimen masyarakat di platform X (Twitter) terkait isu viral hilangnya tumbler penumpang di kereta KAI. Menggunakan model **IndoRoBERTa**, proyek ini mengklasifikasikan opini publik menjadi tiga kategori: **Negatif, Netral, dan Positif** untuk memahami persepsi masyarakat terhadap penanganan kasus oleh pihak KAI.
 
